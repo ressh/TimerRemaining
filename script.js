@@ -48,5 +48,3 @@ function setData(){
 
 setData();
 setInterval(setData, 1000);
-console.log('ok');
-
